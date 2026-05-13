@@ -3,8 +3,8 @@
 #include <DHT.h>
 
 // WiFi and Firebase Credintials 
-const char* WIFI_SSID = "Adhammm2.4";
-const char* WIFI_PASSWORD = "Adham24263316@";
+const char* WIFI_SSID = "ssid";
+const char* WIFI_PASSWORD = "password";
 const char* FIREBASE_HOST = "https://smart-beehive-ee4ea-default-rtdb.europe-west1.firebasedatabase.app/"; 
 const char* FIREBASE_AUTH = "UupWqYcm9EBZyUqBKcoHriGJwh09WedTtoZXqfab";
 
