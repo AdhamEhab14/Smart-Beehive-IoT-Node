@@ -3,6 +3,7 @@
 #include <WiFiClientSecure.h>
 #include <PubSubClient.h>
 #include <Adafruit_GFX.h>
+#include "secrets.h"
 #include <Adafruit_SSD1306.h>
 #include "DHT.h"
 
@@ -19,10 +20,10 @@ const char *ssid = "Wokwi-GUEST";
 const char *password = "";
 
 // HiveMQ Credentials
-const char *mqtt_server = "1eaa321f27b84b728ab7a3fac9efd010.s1.eu.hivemq.cloud";
-const int mqtt_port = 8883;
-const char *mqtt_user = "Adham14";
-const char *mqtt_pass = "Adham102030";
+const char *mqtt_server = SECRET_MQTT_SERVER;
+const int mqtt_port = SECRET_MQTT_PORT;
+const char *mqtt_user = SECRET_MQTT_USER;
+const char *mqtt_pass = SECRET_MQTT_PASS;
 
 // global objects
 WiFiClientSecure espClient;
