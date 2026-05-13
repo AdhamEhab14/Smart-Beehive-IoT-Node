@@ -1,0 +1,7 @@
+# Tell GitHub to ignore Flutter's auto-generated platform folders
+Hardware_Implementation/Mobile_App/hiveapp/android/* linguist-generated=true
+Hardware_Implementation/Mobile_App/hiveapp/ios/* linguist-generated=true
+Hardware_Implementation/Mobile_App/hiveapp/web/* linguist-generated=true
+Hardware_Implementation/Mobile_App/hiveapp/windows/* linguist-generated=true
+Hardware_Implementation/Mobile_App/hiveapp/linux/* linguist-generated=true
+Hardware_Implementation/Mobile_App/hiveapp/macos/* linguist-generated=true
