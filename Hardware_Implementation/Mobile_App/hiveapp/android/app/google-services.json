@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "648300675858",
+    "firebase_url": "https://smart-beehive-ee4ea-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "smart-beehive-ee4ea",
+    "storage_bucket": "smart-beehive-ee4ea.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648300675858:android:24cb24c7b3f7080c1c29cb",
+        "android_client_info": {
+          "package_name": "com.adham.hiveapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9yyFcofS1M4MvuVks3jB_oPbs5K5vffs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
